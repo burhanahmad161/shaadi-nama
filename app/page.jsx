@@ -127,14 +127,14 @@ export default function Home() {
         w-full max-w-md px-6 
         text-center 
         text-rose-700 font-medium tracking-wider 
-        text-sm xs:text-sm sm:text-base md:text-lg lg:text-xl 
+        text-sm sm:text-sm md:text-base lg:text-lg xl:text-xl 
         leading-relaxed 
         z-30
       "
         style={{ fontFamily: "'Playfair Display', serif" }}
       >
-        اس خاص دن کو اور خاص بنانے کیلئے آپکا آنا بہت ضروری ہے۔
-      </motion.p>
+
+        آپکی شِرکت ہمارے لیے باعث مُسرت ہے      </motion.p>
 
       {/* Corner Lottie - Mobile pe size perfect */}
       <motion.div
