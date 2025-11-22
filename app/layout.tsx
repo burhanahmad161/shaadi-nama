@@ -14,7 +14,6 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Shaadi ka Dawat Naama",
-  description: "Is khaas din ko aur khaas banane ke liye aapka aana bohot zaroori hai.",
 };
 
 export default function RootLayout({
