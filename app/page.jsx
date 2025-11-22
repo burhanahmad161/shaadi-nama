@@ -52,7 +52,7 @@ export default function Home() {
         className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-wide text-rose-800 text-center z-10 mb-8 px-4 leading-tight"
         style={{ fontFamily: "'Playfair Display', serif", textShadow: "0 4px 15px rgba(0,0,0,0.2)" }}
       >
-        Shaadi Ka Dawat Naama
+        شادی کا دعوت نامہ
       </motion.h1>
 
       {/* Main Card - Mobile pe full width aur perfect fit */}
@@ -122,18 +122,18 @@ export default function Home() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1.5 }}
         className="
-    absolute bottom-6 sm:bottom-8 lg:bottom-10 
-    left-1/2 -translate-x-1/2 
-    w-full max-w-md px-6 
-    text-center 
-    text-rose-700 font-medium tracking-wider 
-    text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl 
-    leading-relaxed 
-    z-30
-  "
+        absolute bottom-6 sm:bottom-8 lg:bottom-10 
+        left-1/2 -translate-x-1/2 
+        w-full max-w-md px-6 
+        text-center 
+        text-rose-700 font-medium tracking-wider 
+        text-sm xs:text-sm sm:text-base md:text-lg lg:text-xl 
+        leading-relaxed 
+        z-30
+      "
         style={{ fontFamily: "'Playfair Display', serif" }}
       >
-        Is khaas din ko aur khaas banane ke liye aapka aana bohot zaroori hai.
+        اس خاص دن کو اور خاص بنانے کیلئے آپکا آنا بہت ضروری ہے۔
       </motion.p>
 
       {/* Corner Lottie - Mobile pe size perfect */}
